@@ -1,8 +1,7 @@
 # Validador de dados de cartões de crédito: v.1.0.0
 
-**Esta biblioteca se destina à validação de números de um cartão de crédito.** Ela valida o número do cartão de crédito usando algoritmo de Luhn e retornar true ou false de acordo com o caso.
-
-
+**Esta biblioteca se destina à validação de números de um cartão de crédito.**
+Implementação de um validador de dados de cartões de crédito. A biblioteca valida o número do cartão de crédito (usando algoritmo de Luhn) e retornar true ou false de acordo com o caso.
 
 ## Os métodos utilizados na biblioteca são:
 
